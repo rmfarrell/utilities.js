@@ -2,7 +2,7 @@
 Convenience Functions!
 
 #Usage:
-
+```javascript
 //Initialize the utilities variable
 var u = new Utilities();
 
