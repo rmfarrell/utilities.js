@@ -28,5 +28,5 @@ var newObj = u.extend({"stuff": null, "moreStuff": 42}, {"stuff": true}); //Retu
 var dn = document.querySelectorAll('.deeznuts')
 
 u.each(dn, function(item, element) {
-  console.log(item) //returns <div class="deeznuts">Lorem Ipsum</div>
+  console.log(item) //logs <div class="deeznuts">Lorem Ipsum</div> lots of times
 });
